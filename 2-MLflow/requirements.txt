@@ -1,0 +1,16 @@
+boto3
+pandas 
+gunicorn 
+streamlit 
+Scikit-Learn
+matplotlib 
+seaborn 
+plotly
+mlflow
+psycopg2-binary
+jupyter
+openpyxl
+tensorflow
+tensorflow_hub
+joblib
+

@@ -1,0 +1,107 @@
+﻿target;vin;type;region
+Foie gras;Coteaux de l’Aubance (5 à 15 ans) ;blanc;Loire
+Foie gras;Coteaux du Layon (10 à 40 ans);blanc;Loire
+Foie gras;Vouvray Tendre (2 à 7 ans);blanc;Loire
+Foie gras;Riesling Vendanges Tardives (5 à 15 ans);blanc;Alsace
+Foie gras;Gewurztraminer Vendanges Tardives  (5 à 15 ans);blanc;Alsace
+Foie gras;Grand Cru d’Alsace (2 à 10 ans);blanc;Alsace
+Foie gras;Sauternes à maturité (10 à 50 ans);blanc;Bordeaux
+Foie gras;Jurançon moelleux (5 à 15 ans);blanc;sud-ouest
+Foie gras;Champagne Demi-Sec;champagne;Champagne
+Foie gras;Palette;blanc;Provence
+Viandes rouges;Gigondas;rouge;Rhône
+Viandes rouges;Pinot Noir;rouge;Bourgogne
+Viandes rouges;Saint-Nicolas de Bourgueil;rouge;Beaujolais
+Viandes rouges;Morgon;rouge;Beaujolais
+Viandes rouges;côtes de provence ;rosé;Provence
+Viandes rouges;Saint-Julien;rouge;Bordeaux
+Viandes rouges;Pomerol;rouge;Bordeaux
+Viandes rouges;Cahors;rouge;Sud Ouest
+Viandes blanches;Santenay;rouge;Bourgogne
+Viandes blanches;Saumur-Champigny;blanc;Loire
+Viandes blanches;Rully;blanc;Bourgogne
+Viandes blanches;Riesling;blanc;Alsace
+Viandes blanches;Châteauneuf-du-Pape;blanc;Rhône
+Viandes blanches;Moulin-à-vent;rouge;Bourgogne
+Viandes blanches;Sancerre rouge;rouge;Loire
+Viandes blanches;Chardonney;blanc;Bourgogne
+Fromages;Gamay;rouge;Beaujolais
+Fromages;Montlouis-sur-loire;blanc;Loire
+Fromages; Sauvignon;blanc;loire
+Fromages;côtes de provence ;rosé;provence
+Fromages;vin jaune;blanc;rosé 
+Fromages;Banuyls;rouge;Languedoc
+Fromages;Maury;rouge;Languedoc
+Fromages;Côtes du rhône ;rouge;Rhône
+Fruits de mer;Chablis;blanc;Bourgogne
+Fruits de mer;Sancerre  ;blanc;Loire
+Fruits de mer;Montlouis;blanc;Loire
+Fruits de mer;Vouvray  ;blanc;Loire
+Fruits de mer;Pouilly-Fuissé ;blanc;Bourgogne
+Fruits de mer;Pessac-Léognan ;blanc;Bourgogne
+Fruits de mer;Saint-Chinian ;blanc;Languedoc
+Fruits de mer;Maursault;blanc;Bourgogne
+Abats;Côte de Beaune ou de Nuits;rouge;Bourgogne
+Abats;Côte de Nuits;rouge;Bourgogne
+Abats;Saumur-Champigny;rouge;Loire
+Abats;Chinon;rouge;Loire
+Abats;Saint-Émilion;rouge;Bordeaux
+Abats;Côte de Castillon;rouge;Bordeaux
+Abats;hermitage;rouge;Rhône
+Abats;chardonnay;rouge;Jura
+Poissons;Chinon;rouge;loire
+Poissons;hermitage;blanc;Rhône
+Poissons;côtes-de-provence;rosé;Provence
+Poissons;Champagne brut;champagne;champagne
+Poissons;Sancerre, Pouilly Fumé;blanc;Loire
+Poissons;Pouilly Fumé;blanc;Loire
+Poissons;Givry;blanc;Bourgogne
+Poissons;Pinot noir;rouge;Alsace
+Pâtes;Vin de Corse Coteaux du Cap Corse;Rosé;Corse
+Pâtes;Languedoc rosé;Rosé;Languedoc-roussillon
+Pâtes;Beaune;Blanc;Bourgogne
+Pâtes;Côtes du Rhône;Blanc;Rhône
+Pâtes;Saint-Chinian Berlou ;Rouge;Languedoc-roussillon
+Pâtes;Pauillac;Rouge;Bordeaux
+œufs;Salles-Arbuissonnas;Rouge;Beaujolais
+œufs;Bugey Pinot noir;Rouge;Savoie bugey
+œufs;Côtes de Toul;Rouge;Lorraine
+œufs;Anjou gamay ;Rouge;Loire
+œufs;Bordeaux;Rouge;Bordeaux
+œufs;Ariège;Rouge;Languedoc-roussillon
+œufs;Vin des Allobroges;Rouge;Savoie bugey
+Charcuteries;Pinot Noir ;Rouge ;Alsace
+Charcuteries;Brouilly ;Rouge ;Beaujolais
+Charcuteries;Saumur-Champigny;Rouge ;Loire
+Charcuteries;Cadillac;Rouge ;Bordeaux
+Charcuteries;Minervois;Blanc;Languedoc
+Charcuteries;Corbières ;Blanc;Languedoc
+Charcuteries;Pinot Blanc;Blanc;Alsace
+Charcuteries;Côtes du Rhône;Rosé;Vallée du Rhône
+Apéritif;Champagne Effervescent;Champagne;Champagne
+Apéritif;Beaujolais Nouveau;Rouge;Beaujolais
+Apéritif;Chablis;Blanc;Bourgogne
+Apéritif;Cour - Cheverny ;Blanc;Loire
+Apéritif;Quincy;Blanc;Loire
+Apéritif;Sancerre;Blanc;Loire
+Apéritif;Champagne Effervescent Rosé;Champagne;Champagne
+Apéritif;Côtes de Provence;Rosé;Provence
+Desserts;Arbois vin de paille;Blanc;Arbois vin de paille
+Desserts;Macvin du Jura;Blanc;Jura
+Desserts;Périgord Vin de Domme;Rouge;Bordeaux
+Desserts;Rasteau rosé;Rosé;Rh√¥ne
+Desserts;Banyuls traditionnel;Rouge;Languedoc-roussillon
+Desserts;Crémant d'Alsace;Crémant;Alsace
+Desserts;Crémant de Bourgogne;Crémant;Bourgogne
+Desserts;Anjou mousseux blanc;Crémant;Loire
+Desserts;Coteaux de Saumur;Blanc;Loire
+Légumes;Minervois;Blanc;Languedoc-roussillon
+Légumes;Côtes du Tarn;Blanc;Sud-ouest
+Légumes;Bandol;Blanc;Provence
+Légumes;Palette;Blanc;Provence
+Légumes;Limoux;Blanc;Languedoc-roussillon
+Légumes;Beaujolais;Blanc;Beaujolais
+Légumes;Muscadet;Blanc;Loire
+Légumes;C√¥te de Provence;Rosé;Provence
+Légumes;Roussette de Savoie;Blanc;Savoie bugey
+Légumes;Pays d'Oc ;Rosé;Languedoc-roussillon
