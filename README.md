@@ -30,5 +30,6 @@ for the link between API & Streamlit :
 
 ## Authors
 
-**Marie Agrapart** **Océane Raubitschek** **Jérémy Philippe** **Nicolò D'Amato** 
+**Marie Agrapart** & **Océane Raubitschek** & **Jérémy Philippe** & **Nicolò D'Amato** 
+
 Demoday : *https://youtu.be/cRNy1-rTXYg?t=653*
