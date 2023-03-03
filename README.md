@@ -9,7 +9,7 @@ It'a a student final roject with the following gloal :
 ## Prerequisites
 
 You will need : 
-- pip install requirement.txt 
+- pip install -r requirements.txt  
 - Docker 
 - Credendials for AWS S3 : one file *run.sh* for S3 credentials 
 - Three heroku app 
